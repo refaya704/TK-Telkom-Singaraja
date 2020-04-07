@@ -20,8 +20,6 @@
 
      <script src="https://kit.fontawesome.com/23cefbcb34.js" crossorigin="anonymous"></script>
     <title>---TK Singaraja---</title>  
-
-
   </head>
     <body>
     <header>
@@ -189,9 +187,9 @@
        <br>
        <p class="judul-footer"> <i class="fas fa-envelope mr-3"></i>TK_Singaraja@gmail.com</p>
        <br>
-       <p class="judul-footer"> <i class="fab fa-instagram mr-3"></i></i>@ref_aya</p>
+       <p class="judul-footer"> <i class="fab fa-instagram mr-3"></i>@ref_aya</p>
        <br>
-       <p class="judul-footer"> <i class="fab fa-youtube mr-3"></i></i>TK Singaraja</p>
+       <p class="judul-footer"> <i class="fab fa-youtube mr-3"></i>TK Singaraja</p>
     </div>
   </div>
   </footer>
